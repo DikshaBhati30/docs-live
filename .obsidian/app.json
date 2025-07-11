@@ -5,5 +5,11 @@
     "landscape": false,
     "margin": "2",
     "downscalePercent": 100
-  }
+  },
+  "promptDelete": false,
+  "spellcheckDictionary": [
+    "Ladakh",
+    "Socio-Economic"
+  ],
+  "alwaysUpdateLinks": true
 }
